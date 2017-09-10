@@ -15,7 +15,7 @@ jwplayer.defaults = {
     "idstring": "title"
   },
   "height": 260,
-  "key": "WGqeahVKGTSjVOndjTlBE7SJSy9tsFBSHAdi0UqkPJ2zF7NHNkywD5j8Kng=",
+  "key": "KFNSL282Ugfe+TAKwt6ZeT9uXk34bJzpgXXgOo3Ax13bvVQFCMjp8RH88XE=",
   "logo": {
     "file": "https://assets-jpcust.jwpsrv.com/watermarks/wuGU5Evq.png",
     "hide": false,
